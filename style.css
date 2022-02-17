@@ -54,3 +54,9 @@ body {
   border: 2px solid rgb(28, 110, 164);
   display: inline-block;
 }
+.btn:hover {
+  background: #1c6ea4;
+}
+.btn:active {
+  background: #144e75;
+}
